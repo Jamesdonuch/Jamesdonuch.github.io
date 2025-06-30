@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 # Project 1
 
-**Title:** [Housing Price Interactive Sales Dashboard](https://github.com/Jamesdonuch/Jamesdonuch.github.io/blob/main/Homes%20for%20Sale%20and%20Real%20Estate.xlsx)
+**Title:** [Housing Price Interactive Sales Dashboard](https://github.com/Jamesdonuch/Jamesdonuch.github.io/blob/main/Housing%20Price%20Sales%20Dashboard.png)
 
 **Tool Used:** Microsoft Excel (Pivot table, Pivot chart, Slicers and filters)
 
@@ -10,4 +10,4 @@
 **Key findings:**
 
 **Dashboard Overview:**
-![Housing Price Sales Dashboard](Housing Price Sales Dashboard.png)
+![HousingPrice](HousingPrice.png)
