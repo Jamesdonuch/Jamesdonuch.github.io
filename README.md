@@ -3,7 +3,7 @@
 
 **Title:** [Housing Price Interactive Sales Dashboard](https://github.com/Jamesdonuch/Jamesdonuch.github.io/blob/main/Housing%20Price%20Sales%20Dashboard.png)
 
-**Tool Used:** Microsoft Excel (Pivot table, Pivot chart, Slicers and filters)
+**Tool Used:** Microsoft Excel (Pivot table, Pivot chart, Slicers and filters).
 
 **Project Description:** This project involved analysing the housing price data to identify trends and patterns in sales performance. It is designed to provide a comprehensive overview of the key performance metrics. This dashboard allows stakeholders to easily monitor and analyse the housing price performance across different regions and periods.
 
