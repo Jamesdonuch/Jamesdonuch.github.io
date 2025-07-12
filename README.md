@@ -23,5 +23,5 @@
 **Key Findings:**
 
 **Dashboard Overview:**
-[FoodSupplySalesReport](Foodsupplysalesreport.png)
+![FoodSupplySalesReport](Foodsupplysalesreport.png)
 
