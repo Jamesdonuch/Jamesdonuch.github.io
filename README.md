@@ -14,3 +14,14 @@
 
 # Project 2
 
+**Title:** [Food Supply Report Dashboard]
+
+**Tool Used:** Microsoft PowerBI (Table view, Charts, Cards, Slicers and filters).
+
+**Project Description:**
+
+**Key Findings:**
+
+**Dashboard Overview:**
+[FoodSupplySalesReport](Foodsupplysalesreport.png)
+
