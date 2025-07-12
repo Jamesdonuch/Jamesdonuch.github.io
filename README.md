@@ -14,7 +14,7 @@
 
 # Project 2
 
-**Title:** [Food Supply Report Dashboard]
+**Title:** [Food Supply Report Dashboard](https://github.com/Jamesdonuch/Jamesdonuch.github.io/blob/main/Food%20supply%20report%20dashboard.pbix)
 
 **Tool Used:** Microsoft PowerBI (Table view, Charts, Cards, Slicers and filters).
 
