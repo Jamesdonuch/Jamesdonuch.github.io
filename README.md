@@ -18,9 +18,9 @@
 
 **Tool Used:** Microsoft PowerBI (Table view, Charts, Cards, Slicers and filters).
 
-**Project Description:**
+**Project Description:** This project involved analysing the Food supply sales data to identify trends and patterns in sales performance. It is designed to provide a comprehensive overview of the key performance metrics. This dashboard allows stakeholders to easily monitor and analyse the food supply performance across different regions and periods.
 
-**Key Findings:**
+**Key Findings:** Regional Profitability: Identified the most profitable countries and highlighted regions where performance could be improved. Sales Volatility: Analysed food supply price fluctuations to understand market dynamics and adjust business strategies accordingly. This dashboard serves as a crucial tool for the food supply metrics, providing clear, actionable insights that drive informed decision-making and strategic planning.
 
 **Dashboard Overview:**
 ![Food supply sales report](Food supply sales report.png)
